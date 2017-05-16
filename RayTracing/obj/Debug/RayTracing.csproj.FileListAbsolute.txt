@@ -1,0 +1,66 @@
+c:\users\sergey\documents\visual studio 2017\Projects\RayTracing\RayTracing\bin\Debug\RayTracing.exe.config
+c:\users\sergey\documents\visual studio 2017\Projects\RayTracing\RayTracing\bin\Debug\RayTracing.exe
+c:\users\sergey\documents\visual studio 2017\Projects\RayTracing\RayTracing\bin\Debug\RayTracing.pdb
+c:\users\sergey\documents\visual studio 2017\Projects\RayTracing\RayTracing\bin\Debug\OpenTK.dll
+c:\users\sergey\documents\visual studio 2017\Projects\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.dll
+c:\users\sergey\documents\visual studio 2017\Projects\RayTracing\RayTracing\bin\Debug\OpenTK.pdb
+c:\users\sergey\documents\visual studio 2017\Projects\RayTracing\RayTracing\bin\Debug\OpenTK.xml
+c:\users\sergey\documents\visual studio 2017\Projects\RayTracing\RayTracing\bin\Debug\OpenTK.dll.config
+c:\users\sergey\documents\visual studio 2017\Projects\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.xml
+c:\users\sergey\documents\visual studio 2017\Projects\RayTracing\RayTracing\obj\Debug\RayTracing.csprojResolveAssemblyReference.cache
+c:\users\sergey\documents\visual studio 2017\Projects\RayTracing\RayTracing\obj\Debug\RayTracing.Form1.resources
+c:\users\sergey\documents\visual studio 2017\Projects\RayTracing\RayTracing\obj\Debug\RayTracing.Properties.Resources.resources
+c:\users\sergey\documents\visual studio 2017\Projects\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.GenerateResource.Cache
+c:\users\sergey\documents\visual studio 2017\Projects\RayTracing\RayTracing\obj\Debug\RayTracing.exe
+c:\users\sergey\documents\visual studio 2017\Projects\RayTracing\RayTracing\obj\Debug\RayTracing.pdb
+E:\RayTracing\RayTracing\bin\Debug\RayTracing.exe.config
+E:\RayTracing\RayTracing\obj\Debug\RayTracing.exe
+E:\RayTracing\RayTracing\obj\Debug\RayTracing.pdb
+C:\Users\User\Desktop\RayTracing\RayTracing\bin\Debug\RayTracing.exe.config
+C:\Users\User\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.exe
+C:\Users\User\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.pdb
+C:\Users\User\Desktop\RayTracing\RayTracing\bin\Debug\RayTracing.exe
+C:\Users\User\Desktop\RayTracing\RayTracing\bin\Debug\RayTracing.pdb
+C:\Users\User\Desktop\RayTracing\RayTracing\bin\Debug\mscorlib.dll
+C:\Users\User\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.dll
+C:\Users\User\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\User\Desktop\RayTracing\RayTracing\bin\Debug\System.Net.Http.dll
+C:\Users\User\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.pdb
+C:\Users\User\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.xml
+C:\Users\User\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\User\Desktop\RayTracing\RayTracing\bin\Debug\System.Net.Http.xml
+C:\Users\User\Desktop\RayTracing\RayTracing\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\User\Desktop\RayTracing\RayTracing\bin\Debug\ru\System.Net.Http.resources.dll
+C:\Users\User\Desktop\RayTracing\RayTracing\bin\Debug\normidna.nlp
+C:\Users\User\Desktop\RayTracing\RayTracing\bin\Debug\normnfc.nlp
+C:\Users\User\Desktop\RayTracing\RayTracing\bin\Debug\normnfd.nlp
+C:\Users\User\Desktop\RayTracing\RayTracing\bin\Debug\normnfkc.nlp
+C:\Users\User\Desktop\RayTracing\RayTracing\bin\Debug\normnfkd.nlp
+C:\Users\User\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.Form1.resources
+C:\Users\User\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.Properties.Resources.resources
+C:\Users\User\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.GenerateResource.Cache
+C:\Users\Евгений\Downloads\RayTracingFIN\RayTracing\RayTracing\bin\Debug\RayTracing.exe.config
+C:\Users\Евгений\Downloads\RayTracingFIN\RayTracing\RayTracing\obj\Debug\RayTracing.exe
+C:\Users\Евгений\Downloads\RayTracingFIN\RayTracing\RayTracing\obj\Debug\RayTracing.pdb
+C:\Users\Евгений\Downloads\RayTracingFIN\RayTracing\RayTracing\bin\Debug\RayTracing.exe
+C:\Users\Евгений\Downloads\RayTracingFIN\RayTracing\RayTracing\bin\Debug\RayTracing.pdb
+C:\Users\Евгений\Downloads\RayTracingFIN\RayTracing\RayTracing\bin\Debug\OpenTK.pdb
+C:\Users\Евгений\Downloads\RayTracingFIN\RayTracing\RayTracing\bin\Debug\OpenTK.xml
+C:\Users\Евгений\Downloads\RayTracingFIN\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Евгений\Downloads\RayTracingFIN\RayTracing\RayTracing\obj\Debug\RayTracing.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Downloads\RayTracingFIN\RayTracing\RayTracing\obj\Debug\RayTracing.Form1.resources
+C:\Users\Евгений\Downloads\RayTracingFIN\RayTracing\RayTracing\obj\Debug\RayTracing.Properties.Resources.resources
+C:\Users\Евгений\Downloads\RayTracingFIN\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.GenerateResource.Cache
+C:\Программирование\RayTracing\RayTracing\bin\Debug\RayTracing.exe.config
+C:\Программирование\RayTracing\RayTracing\obj\Debug\RayTracing.exe
+C:\Программирование\RayTracing\RayTracing\obj\Debug\RayTracing.pdb
+C:\Программирование\RayTracing\RayTracing\bin\Debug\RayTracing.exe
+C:\Программирование\RayTracing\RayTracing\bin\Debug\RayTracing.pdb
+C:\Программирование\RayTracing\RayTracing\bin\Debug\OpenTK.pdb
+C:\Программирование\RayTracing\RayTracing\bin\Debug\OpenTK.xml
+C:\Программирование\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.xml
+C:\Программирование\RayTracing\RayTracing\obj\Debug\RayTracing.csprojResolveAssemblyReference.cache
+C:\Программирование\RayTracing\RayTracing\obj\Debug\RayTracing.Form1.resources
+C:\Программирование\RayTracing\RayTracing\obj\Debug\RayTracing.Properties.Resources.resources
+C:\Программирование\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.GenerateResource.Cache
